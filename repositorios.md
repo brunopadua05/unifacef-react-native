@@ -17,7 +17,7 @@
 * [Gabriel Chiarelo](https://github.com/gabrielborc/gasolina_ou_etanol_ts)
 * [Danilo Alves](https://github.com/daniloalves19/facef-react-combustivel)
 * [Lukas Rafael1407](https://github.com/lukasrafael1407/Mobile.git)
-* [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
+* [Bruno Pádua](https://github.com/brunopadua05/app-posto-combustivel)
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
 
@@ -31,5 +31,4 @@
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
-* [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
-* [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
+* [Miguel Molina] (https://github.com/miguelmolina78/starwars-app)
